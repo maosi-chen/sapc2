@@ -1,4 +1,12 @@
 # Source-Augmented Partial Convolution version 2 (SAPC2)
+
+## Table of Contents
+
+- [samples](#samples)
+- [citation](#citation)
+- [code contributors](#code contributors)
+- [License](#license)
+
 ## samples
 ![alt text](https://github.com/maosi-chen/sapc2/blob/master/figure/plot_mosaic_81163.png?raw=true)
 
@@ -17,4 +25,12 @@ Chen, M.; Sun, Z.; Newell, B.H.; Corr, C.A.; Gao, W. Missing Pixel Reconstructio
 
 https://www.mdpi.com/2072-4292/12/19/3143/htm
 
+## code contributors
+* Maosi Chen (maosi.chen.1984@gmail.com)
+* Ben Newell (benhunterco@gmail.com)
 
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
