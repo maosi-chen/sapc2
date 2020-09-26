@@ -1,0 +1,4 @@
+trainer/__pycache__/*
+trainer/squeeze_and_excitation_layer.py
+trainer/activations.py
+trainer/evaluate_task.py
