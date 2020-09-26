@@ -10,7 +10,6 @@ from tensorflow.python.keras.utils import tf_utils
 
 from .merge_layer import MergeLayer
 from .partial_merge_layer import PartialMergeLayer
-#from .gated_partial_merge import GatedPartialMergeLayer
 from .partial_convolution_layer import PConv2D
 
 """## Reference-Target Encoder Layer (RefTgtEncodeLyr)"""
