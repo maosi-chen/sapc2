@@ -4,7 +4,7 @@
 
 - [Samples](#samples)
 - [Citation](#Citation)
-- [Code Contributors](#code&#32contributors)
+- [Code Contributors](#code-contributors)
 - [License](#license)
 
 ## Samples
